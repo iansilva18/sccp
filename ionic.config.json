@@ -1,0 +1,7 @@
+{
+  "name": "sccp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
